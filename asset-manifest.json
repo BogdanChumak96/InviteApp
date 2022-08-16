@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/InviteApp/static/css/main.c7c01228.css",
+    "main.js": "/github.io/InviteApp/static/js/main.152f7434.js",
+    "index.html": "/github.io/InviteApp/index.html",
+    "main.c7c01228.css.map": "/github.io/InviteApp/static/css/main.c7c01228.css.map",
+    "main.152f7434.js.map": "/github.io/InviteApp/static/js/main.152f7434.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7c01228.css",
+    "static/js/main.152f7434.js"
+  ]
+}
